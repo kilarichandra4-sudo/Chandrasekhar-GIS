@@ -1,11 +1,12 @@
-# Chandrasekhar-GIS
-# 👋 Hi, I'm Chandra Sekhar
+# Chandrasekhar-Kilari
+# 👋 Hi, I'm ChandraSekhar K N 
 
+## 📌 About Me
 ### GIS Consultant | GIS Mapping | Geospatial Data Collection
 
 Welcome to my GitHub profile! I am a GIS mapping professional with experience in digital mapping, geospatial data collection, and map data validation. I have experience working with MapMyIndia (Mappls) mapping projects.
 
-## 📌 About Me
+
 - 🗺️ Experienced in GIS mapping and road surveys
 - 📍 Geospatial data collection and map validation
 - 🚗 Street-level imagery and 360° survey mapping
@@ -26,6 +27,8 @@ Welcome to my GitHub profile! I am a GIS mapping professional with experience in
 - GIS Road Attribute Mapping
 - Toll Interchange Mapping
 - Geospatial Data Collection and Validation
+- 
+## Company
 
 ## 🎯 Career Objective
 To contribute my GIS mapping experience and geospatial data skills to innovative mapping, transportation and location intelligence projects.
